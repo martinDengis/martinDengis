@@ -5,9 +5,9 @@ I'm a passionate student at the University of Liege, currently in my final year 
 
 ## Education
 - **University of Liege (ULiege)**
-  - *Bachelor's in Business Engineering*
-  - *Master's in Business Engineering* (HEC Faculty)
-  - *Master's in Digital Business* (Applied Sciences Faculty)
+  - *Bachelor's in Business Engineering* (HEC Faculty)
+  - *Master's in Business Engineering with focus on Digital Business* (HEC Faculty)
+  - *Master's in Computer Science* (Applied Sciences Faculty)
 
 ## Interests
 - **Programming:** I enjoy delving into coding projects and exploring new technologies.
