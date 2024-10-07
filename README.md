@@ -11,9 +11,9 @@ I'm a passionate student at the University of Liege, currently in my final year 
 
 ## Interests
 - **Programming:** I enjoy delving into coding projects and exploring new technologies.
-- **Cooking:** Experimenting with recipes and flavors is one of my creative outlets.
-- **Traveling:** Discovering new cultures and places fuels my curiosity and broadens my perspective.
-- **Sports:** Staying active and participating in sports activities keeps me energized and focused.
+- **Cooking:** The kitchen is my lab and experimenting with recipes is one of my creative outlets.
+- **Traveling:** Discovering new cultures and places fuels my curiosity.
+- **Sports:** I love to stay active and participate in sports activities to keep me energized and focused.
 
 ## Projects
 - **Weight and Balance**: Development of an app (C# on Unity) for the Weight and Balance in Air Cargo Operations at Liege Airport.
