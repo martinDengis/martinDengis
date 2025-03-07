@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Martin!  
 Welcome to My GitHub Profile!
 
-🎓 Master’s student in Computer Science, specializing in Intelligent Systems.
-🎓 Graduated in Business Engineering, specializing in Digital Business.
-💡 Passionate about AI, Machine Learning, and Programming.  
+🎓 Master’s student in Computer Science, specializing in Intelligent Systems. \
+🎓 Graduated in Business Engineering, specializing in Digital Business. \
+💡 Passionate about AI, Machine Learning, and Programming. \
 📍 Based in Belgium.  
 
 ## 🔧 Technologies & Skills  
